@@ -72,6 +72,11 @@ This repository follows the structure outlined below:
         └── logger.cpp
 ```
 
+## Environment
+
+This project was developed and tested on a Linux-based environment (university servers).  
+It relies on POSIX socket APIs and is expected to run on Unix-like systems (Linux/macOS).
+
 ## Context
 
 This project was developed as part of a university systems programming / networking course.  
